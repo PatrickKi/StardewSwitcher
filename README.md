@@ -4,7 +4,8 @@ This is a tool that helps you switch the host of a co-op world in Stardew Valley
 
 ## How to use
 
-- Download tool for windows - no install needed
+- Download tool for windows - no install needed - see Releases on Github
+  - Unzip the folder and start .exe
 - Click on "Choose saves directory" to select your saves folder
   - Usually here: C:\Users\Username\AppData\Roaming\StardewValley\Saves
   - Select the whole "saves" folder, not one specific world
